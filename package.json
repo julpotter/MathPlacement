@@ -1,0 +1,10 @@
+{
+  "name": "MathPlacement",
+  "version": "1.0.0",
+  "dependencies": {
+    "datatables.net-buttons-dt": "^1.6.1",
+    "datatables.net-dt": "^1.10.20",
+    "jszip": "^3.2.2",
+    "pdfmake": "^0.1.64"
+  }
+}

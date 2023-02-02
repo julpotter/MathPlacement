@@ -4,7 +4,7 @@
   "dependencies": {
     "datatables.net-buttons-dt": "^1.6.1",
     "datatables.net-dt": "^1.10.20",
-    "jszip": "^3.2.2",
+    "jszip": "^3.8.0",
     "pdfmake": "^0.1.64"
   }
 }
